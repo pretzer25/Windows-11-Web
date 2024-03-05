@@ -59,7 +59,7 @@ export const AppsConfig: App = {
     },
     "vscode": {
         title: "Visual Studio Code",
-        isActive: false,
+        isActive: true,
         icon: VSCodeIcon,
         Component: VsCodeApp,
         height: 500,
